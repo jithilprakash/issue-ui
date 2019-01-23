@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+.paper-header{
+  margin-top: 10px;
+  height: 50px;
+  margin-left: 5%;
+  width: 90%;
+  font-size: 30px;
+}
+
+.paper-table{
+  margin-left: 5%;
+  margin-bottom: 20px;
+  width: 90%;
+}
